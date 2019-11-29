@@ -73,5 +73,7 @@ Creating gs://kubernetes-clusters-rparuchuri/...
 [root@node2 ~]#  export KOPS_STATE_STORE=gs://kubernetes-clusters-rparuchuri
 
 
+Precisely following instructions from here now:
 
+https://www.cloudtechnologyexperts.com/kubernetes-google-cloud-kops/
 
